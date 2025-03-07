@@ -1,5 +1,5 @@
 const Creatomate=require('creatomate')
-const client=new Creatomate.Client("26cdaaeaeb0642178a5140ab2b24db2a4f0d7f44821b522c2a1dbed2cf355201cfab316283dc6dffa234745554a79027")
+const client=new Creatomate.Client("")
 client.render({
     template_id: "fc777f71-7baa-4c96-a1ed-4170bdc70045",
     modifications: {
